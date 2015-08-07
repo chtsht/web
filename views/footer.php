@@ -1,0 +1,1 @@
+		</div> <!-- end container -->	</div> <!-- end wrap -->	<footer>		<ul>			<li><a href="/">Home</a></li>			<li><a href="/add">Add</a></li>			<li><a href="/list">List</a></li>			<li><a href="/tags">Tags</a></li>			<li><a href="/about">About</a></li>		</ul>		<p>&copy; <?= date("Y") ?> CHTSHT.io</p>	</footer></body></html>

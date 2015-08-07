@@ -1,0 +1,6 @@
+config/config.php
+.idea
+vendor
+css
+js
+bowser_components
